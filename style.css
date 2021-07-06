@@ -109,4 +109,6 @@ section.about-me {
 .code{
     color: #f16c0d;
 }
-
+.copyright{
+    text-align: center;
+}

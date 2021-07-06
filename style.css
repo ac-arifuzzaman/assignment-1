@@ -77,23 +77,6 @@ section.about-me {
 .recipie-single-item h1{
     font-size: 30px;
 }
-.recepie-menue{
-    display: flex;
-    /* margin: 0 500px; */
-    background: #ff440096;
-    background: cover;
-    margin-bottom: 100px;
-}
-.ciken {
-    box-shadow: 1px 1px 10px orangered;
-    margin: 20px 300px;
-    padding: 20px;
-    border-radius: 10px;
-}
-.ciken ul li a{
-    text-decoration: none;
-    list-style: none;
-}
 .counter {
     display: flex;
     margin-top: 100px;
@@ -125,6 +108,24 @@ section.about-me {
 }
 .code{
     color: #f16c0d;
+}
+.recepie-menue{
+    display: flex;
+    /* margin: 0 500px; */
+    background: #ff440096;
+    background: cover;
+    margin-bottom: 100px;
+}
+.ciken {
+    box-shadow: 1px 1px 10px orangered;
+    margin: 20px 300px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.ciken ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
 }
 .copyright{
     text-align: center;
